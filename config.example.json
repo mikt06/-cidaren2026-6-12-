@@ -1,0 +1,8 @@
+{
+  "user_token": "请用Fiddler抓包替换这里",
+  "settings": {
+    "delay_per_question": 2,
+    "correct_rate_target": 100,
+    "max_questions_per_run": 500
+  }
+}
